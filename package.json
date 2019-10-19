@@ -2,7 +2,7 @@
   "name": "personal-website",
   "version": "1.0.0",
   "description": "My personal website",
-  "author": "Rafael Macedo &lt;",
+  "author": "Rafael Macedo <https://github.com/RafaelMLMacedo>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
