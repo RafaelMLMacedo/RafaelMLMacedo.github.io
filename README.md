@@ -1,5 +1,7 @@
 # personal-website
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RafaelMLMacedo/RafaelMLMacedo.github.io.svg)](https://greenkeeper.io/)
+
 > My personal website
 
 ## Build Setup
